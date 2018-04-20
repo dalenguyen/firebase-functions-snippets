@@ -1,4 +1,4 @@
-Awesome Firebase Functions Snippets
+# Awesome Firebase Functions Snippets
 
 Here contains all my works that involves with writing firebase functions
 
