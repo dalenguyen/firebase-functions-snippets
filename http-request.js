@@ -30,3 +30,23 @@ if(request.method !== "POST"){
 // Get data from POST request
 
 let data = request.body;
+
+/*
+ * Send GET request with parameters from Angular
+ * https://angular.io/api/http/RequestOptionsArgs
+ */
+
+import { Http, Headers } from '@angular/http';
+
+// Prepare the header 
+let headers: Headers = new Headers();
+headers.set('parameter-name' , 'parameter-value);
+
+// Send request with parameters            
+this.http.get('url', {
+  headers: headers
+}).subscribe(res => resolve(res.json()));            
+
+// In order get the request value 
+let params = req.headers['parameter-name'];
+            
