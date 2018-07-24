@@ -40,7 +40,7 @@ import { Http, Headers } from '@angular/http';
 
 // Prepare the header 
 let headers: Headers = new Headers();
-headers.set('parameter-name' , 'parameter-value);
+headers.set('parameter-name' , 'parameter-value');
 
 // Send request with parameters            
 this.http.get('url', {
