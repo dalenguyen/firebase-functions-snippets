@@ -4,6 +4,12 @@ Here contains all my works that involves with writing firebase functions
 
 In order to use this, you should know how to create and deploy firebase functions. If you don't, please read [Get started](https://firebase.google.com/docs/functions/get-started)
 
+## CI / CD
+
+- [Google Cloud Build](/ci-cd/cloudbuild.md)
+
+## Others
+
 - [Easy to test Firebase Functions locally](https://github.com/dalenguyen/firebase-functions-snippets/blob/master/local-test-easy.js)
 - [Export from Firebase Functions to CSV or JSON](https://github.com/dalenguyen/firebase-functions-snippets/blob/master/csv-json-export.js)
 - [Dealing with HTTP Request](https://github.com/dalenguyen/firebase-functions-snippets/blob/master/http-request.js)
