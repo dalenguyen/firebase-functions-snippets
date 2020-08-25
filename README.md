@@ -7,6 +7,7 @@ In order to use this, you should know how to create and deploy firebase function
 ## CI / CD
 
 - [Google Cloud Build](/ci-cd/cloudbuild.md)
+- [Github Actions](/ci-cd/github-actions.md)
 
 ## Others
 

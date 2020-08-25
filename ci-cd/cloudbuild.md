@@ -1,6 +1,6 @@
-# Deploy Fibase Through Cloud Build
+# Deploy Firebase Via Cloud Build
 
-Deploy firebase hosting or cloud functions through Google Cloud Build.
+Deploy firebase hosting or cloud functions via Google Cloud Build.
 
 ```
 ### cloudbuid.yaml
